@@ -1,0 +1,17 @@
+{
+    "name": "scottgalang/ipt10-registration-login",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ScottGalang",
+            "email": "galang.scottrylee@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
